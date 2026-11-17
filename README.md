@@ -14,13 +14,20 @@
 
 | Proprietà | Dettaglio |
 | :--- | :--- |
-| 👨‍🏫 **Docente/i** | Prof. Paolo Milazzo |
+| 👨‍🏫 **Docente/i** | Prof. Paolo Milazzo, Prof.ssa Chiara Bodei |
 | 📝 **Modalità d'Esame** | Scritto + Orale |
 | 🎓 **Crediti** | 9 CFU |
 | 📅 **Collocazione** | 2° Anno · 2° Semestre |
 | 🔗 **Appelli INF-L** | [Apri su esami.unipi.it](https://esami.unipi.it/esami2/elencoappelli.php?from=sappelli&docente=&insegnamento=&cds=INF-L&cerca=) |
 
 > 📌 **Note d'Esame:** Disponibili Tomo Master LaTeX, eserciziario risolto e dispense ufficiali.
+
+---
+
+## 🗣️ Consigli, Domande d'Esame &amp; Lore (Chat Telegram)
+- OCaml è lo scoglio principale dello scritto (3–4 esercizi su OCaml, inferenza tipi, OOP). Nessun progetto da consegnare.
+- L'orale parte sempre dalla correzione dello scritto: saper spiegare i propri errori vale metà esame.
+- Prof. Milazzo molto chiaro e disponibile (presidente commissione tirocini); Prof.ssa Bodei insiste su Liskov Substitution Principle, Garbage Collector e lock/mutua esclusione.
 
 ---
 
